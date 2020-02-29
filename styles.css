@@ -1,0 +1,21 @@
+h1 {
+  color: #EEF;
+  font-family: monospace;
+  font-size: 200%;
+}
+body {
+  background-color: #010101;
+  color: #ADE;
+}
+p {
+  font-size: 150%;
+  font-family: courier;
+  font-style: oblique;
+}
+div {
+  border-radius: 5px;
+  border-style: groove;
+  border-color: #334;
+  background-color: #011;
+  padding-left: 10px;
+}
